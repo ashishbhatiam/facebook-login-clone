@@ -7,3 +7,5 @@ A responsive clone of Facebook login page using HTML & CSS for computer screen a
 <br><div style="text-align:center;">
   <a href="https://ab-facebook.netlify.app/" target="\_parent"><img src="./images/readme.png" alt="facebook-login-clone" style="width:450px;"/></a>
 </div>
+
+Disclaimer : Cloned for educational purposes only.
